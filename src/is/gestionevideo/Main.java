@@ -43,7 +43,7 @@ public class Main {
 
 
 
-		nome_evento = "Commento Napoli-Sampdoria";
+		nome_evento = "Commento S.C. Napoli-Sampdoria";
 
 		data_evento = LocalDate.of(2019, Month.SEPTEMBER, 14);
 
